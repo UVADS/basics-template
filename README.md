@@ -24,7 +24,10 @@ more options.
     ---
     ```
 
-4. In the GitHub **Settings** for your new repository, go to the **Pages** section and
+4. This template repository is based on the Jekyll publishing engine, which renders ordinary markdown
+files into HTML files, and makes use of a theme, plugins, and style templating. This site uses the 
+[Just-The-Docs](https://just-the-docs.com/) theme.
+5. In the GitHub **Settings** for your new repository, go to the **Pages** section and
 for the source of "Build and Deployment" select "GitHub Actions". Pushes to your repository
 will now trigger a new build.
-5. The URL of the built site is `https://uvads.github.io/` plus the repository name. [Here](https://uvads.github.io/basics-template/) is the URL for this particular site.
+6. The URL of the built site is `https://uvads.github.io/` plus the repository name. [Here](https://uvads.github.io/basics-template/) is the URL for this particular site.
