@@ -15,12 +15,14 @@ that declares a `title` and `nav_order` among other metadata. This is extensible
 has many other options, such as publish date, categories, and tags, etc.. See [reference](https://jekyllrb.com/docs/front-matter/) material for
 more options.
 
+    ```
     ---
     layout: default
     title: 2 - Git Basics
     nav_order: 4
     last_modified_date: "2025-04-28 02:13AM"
     ---
+    ```
 
 4. In the GitHub **Settings** for your new repository, go to the **Pages** section and
 for the source of "Build and Deployment" select "GitHub Actions". Pushes to your repository
