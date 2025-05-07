@@ -26,7 +26,7 @@ more options.
 
 4. This template repository is based on the Jekyll publishing engine, which renders ordinary markdown
 files into HTML files, and makes use of a theme, plugins, and style templating. This site uses the 
-[Just-The-Docs](https://just-the-docs.com/) theme.
+[Just-The-Docs](https://just-the-docs.com/) theme. Other themes, and other publishing methods, are available.
 5. In the GitHub **Settings** for your new repository, go to the **Pages** section and
 for the source of "Build and Deployment" select "GitHub Actions". Pushes to your repository
 will now trigger a new build.
