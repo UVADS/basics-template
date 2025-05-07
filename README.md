@@ -13,3 +13,4 @@ To use this template:
 3. In the GitHub **Settings** for your new repository, go to the **Pages** section and
 for the source of "Build and Deployment" select "GitHub Actions". Pushes to your repository
 will now trigger a new build.
+4. The URL of the built site is `https://uvads.github.io/` plus the repository name. [Here](https://uvads.github.io/basics-template/) is the URL for this particular site.
